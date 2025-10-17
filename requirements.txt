@@ -1,0 +1,3 @@
+streamlit
+kokoro
+soundfile
